@@ -1,0 +1,260 @@
+MINI DATASET
+Sequential program: time in seconds = 0.001344
+SMALL DATASET
+Sequential program: time in seconds = 0.011100
+MEDIUM DATASET
+Sequential program: time in seconds = 0.211579
+LARGE DATASET
+Sequential program: time in seconds = 31.645112
+EXTRALARGE DATASET
+Sequential program: time in seconds = 299.866246
+MINI DATASET
+Sequential program: time in seconds = 0.000387
+SMALL DATASET
+Sequential program: time in seconds = 0.009479
+MEDIUM DATASET
+Sequential program: time in seconds = 0.210309
+LARGE DATASET
+Sequential program: time in seconds = 31.550799
+EXTRALARGE DATASET
+Sequential program: time in seconds = 299.652555
+
+Текущее число нитей = 1
+MINI DATASET
+Parallel program: time in seconds = 0.000396
+SMALL DATASET
+Parallel program: time in seconds = 0.007523
+MEDIUM DATASET
+Parallel program: time in seconds = 0.180197
+LARGE DATASET
+Parallel program: time in seconds = 32.453982
+EXTRALARGE DATASET
+Parallel program: time in seconds = 307.293841
+
+Текущее число нитей = 2
+MINI DATASET
+Parallel program: time in seconds = 0.000311
+SMALL DATASET
+Parallel program: time in seconds = 0.003701
+MEDIUM DATASET
+Parallel program: time in seconds = 0.092792
+LARGE DATASET
+Parallel program: time in seconds = 16.727544
+EXTRALARGE DATASET
+Parallel program: time in seconds = 155.900721
+
+Текущее число нитей = 3
+MINI DATASET
+Parallel program: time in seconds = 0.000347
+SMALL DATASET
+Parallel program: time in seconds = 0.004923
+MEDIUM DATASET
+Parallel program: time in seconds = 0.121601
+LARGE DATASET
+Parallel program: time in seconds = 20.834531
+EXTRALARGE DATASET
+Parallel program: time in seconds = 181.681192
+
+Текущее число нитей = 4
+MINI DATASET
+Parallel program: time in seconds = 0.000323
+SMALL DATASET
+Parallel program: time in seconds = 0.005666
+MEDIUM DATASET
+Parallel program: time in seconds = 0.096294
+LARGE DATASET
+Parallel program: time in seconds = 17.378408
+EXTRALARGE DATASET
+Parallel program: time in seconds = 148.985004
+
+Текущее число нитей = 1
+MINI DATASET
+Parallel program: time in seconds = 0.000535
+SMALL DATASET
+Parallel program: time in seconds = 0.010970
+MEDIUM DATASET
+Parallel program: time in seconds = 0.181078
+LARGE DATASET
+Parallel program: time in seconds = 32.881891
+EXTRALARGE DATASET
+Parallel program: time in seconds = 306.854819
+
+Текущее число нитей = 2
+MINI DATASET
+Parallel program: time in seconds = 0.000299
+SMALL DATASET
+Parallel program: time in seconds = 0.003740
+MEDIUM DATASET
+Parallel program: time in seconds = 0.092206
+LARGE DATASET
+Parallel program: time in seconds = 16.750295
+EXTRALARGE DATASET
+Parallel program: time in seconds = 155.898488
+
+Текущее число нитей = 3
+MINI DATASET
+Parallel program: time in seconds = 0.000344
+SMALL DATASET
+Parallel program: time in seconds = 0.004932
+MEDIUM DATASET
+Parallel program: time in seconds = 0.121812
+LARGE DATASET
+Parallel program: time in seconds = 21.480041
+EXTRALARGE DATASET
+Parallel program: time in seconds = 180.665855
+
+Текущее число нитей = 4
+MINI DATASET
+Parallel program: time in seconds = 0.000305
+SMALL DATASET
+Parallel program: time in seconds = 0.006794
+MEDIUM DATASET
+Parallel program: time in seconds = 0.112751
+LARGE DATASET
+Parallel program: time in seconds = 15.921396
+EXTRALARGE DATASET
+Parallel program: time in seconds = 149.045531
+
+Текущее число нитей = 1
+MINI DATASET
+Parallel program: time in seconds = 0.000544
+SMALL DATASET
+Parallel program: time in seconds = 0.011496
+MEDIUM DATASET
+Parallel program: time in seconds = 0.179560
+LARGE DATASET
+Parallel program: time in seconds = 32.396535
+EXTRALARGE DATASET
+Parallel program: time in seconds = 307.072864
+
+Текущее число нитей = 2
+MINI DATASET
+Parallel program: time in seconds = 0.000314
+SMALL DATASET
+Parallel program: time in seconds = 0.003714
+MEDIUM DATASET
+Parallel program: time in seconds = 0.096086
+LARGE DATASET
+Parallel program: time in seconds = 16.683234
+EXTRALARGE DATASET
+Parallel program: time in seconds = 155.716207
+
+Текущее число нитей = 3
+MINI DATASET
+Parallel program: time in seconds = 0.000342
+SMALL DATASET
+Parallel program: time in seconds = 0.004921
+MEDIUM DATASET
+Parallel program: time in seconds = 0.124268
+LARGE DATASET
+Parallel program: time in seconds = 20.705541
+EXTRALARGE DATASET
+Parallel program: time in seconds = 180.659976
+
+Текущее число нитей = 4
+MINI DATASET
+Parallel program: time in seconds = 0.000284
+SMALL DATASET
+Parallel program: time in seconds = 0.003933
+MEDIUM DATASET
+Parallel program: time in seconds = 0.099894
+LARGE DATASET
+Parallel program: time in seconds = 16.010615
+EXTRALARGE DATASET
+Parallel program: time in seconds = 149.091337
+
+Текущее число нитей = 1
+MINI DATASET
+Parallel program: time in seconds = 0.000532
+SMALL DATASET
+Parallel program: time in seconds = 0.010603
+MEDIUM DATASET
+Parallel program: time in seconds = 0.181180
+LARGE DATASET
+Parallel program: time in seconds = 32.397148
+EXTRALARGE DATASET
+Parallel program: time in seconds = 307.123854
+
+Текущее число нитей = 2
+MINI DATASET
+Parallel program: time in seconds = 0.000298
+SMALL DATASET
+Parallel program: time in seconds = 0.003690
+MEDIUM DATASET
+Parallel program: time in seconds = 0.093960
+LARGE DATASET
+Parallel program: time in seconds = 16.658012
+EXTRALARGE DATASET
+Parallel program: time in seconds = 155.363738
+
+Текущее число нитей = 3
+MINI DATASET
+Parallel program: time in seconds = 0.000328
+SMALL DATASET
+Parallel program: time in seconds = 0.004927
+MEDIUM DATASET
+Parallel program: time in seconds = 0.121360
+LARGE DATASET
+Parallel program: time in seconds = 20.783763
+EXTRALARGE DATASET
+Parallel program: time in seconds = 180.558358
+
+Текущее число нитей = 4
+MINI DATASET
+Parallel program: time in seconds = 0.000292
+SMALL DATASET
+Parallel program: time in seconds = 0.003946
+MEDIUM DATASET
+Parallel program: time in seconds = 0.098280
+LARGE DATASET
+Parallel program: time in seconds = 15.912089
+EXTRALARGE DATASET
+Parallel program: time in seconds = 149.145897
+
+Текущее число нитей = 1
+MINI DATASET
+Parallel program: time in seconds = 0.000532
+SMALL DATASET
+Parallel program: time in seconds = 0.010550
+MEDIUM DATASET
+Parallel program: time in seconds = 0.183951
+LARGE DATASET
+Parallel program: time in seconds = 32.306831
+EXTRALARGE DATASET
+Parallel program: time in seconds = 306.866349
+
+Текущее число нитей = 2
+MINI DATASET
+Parallel program: time in seconds = 0.001256
+SMALL DATASET
+Parallel program: time in seconds = 0.003692
+MEDIUM DATASET
+Parallel program: time in seconds = 0.092546
+LARGE DATASET
+Parallel program: time in seconds = 16.656191
+EXTRALARGE DATASET
+Parallel program: time in seconds = 155.234178
+
+Текущее число нитей = 3
+MINI DATASET
+Parallel program: time in seconds = 0.000328
+SMALL DATASET
+Parallel program: time in seconds = 0.004917
+MEDIUM DATASET
+Parallel program: time in seconds = 0.121798
+LARGE DATASET
+Parallel program: time in seconds = 20.675899
+EXTRALARGE DATASET
+Parallel program: time in seconds = 181.034591
+
+Текущее число нитей = 4
+MINI DATASET
+Parallel program: time in seconds = 0.000289
+SMALL DATASET
+Parallel program: time in seconds = 0.006929
+MEDIUM DATASET
+Parallel program: time in seconds = 0.098275
+LARGE DATASET
+Parallel program: time in seconds = 15.905419
+EXTRALARGE DATASET
+Parallel program: time in seconds = 148.092137

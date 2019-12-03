@@ -1,0 +1,219 @@
+*** START ***
+OMP_NUM_THREADS = 1
+MINI DATASET
+Parallel program:
+Time in seconds = 0.001037
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+SMALL DATASET
+Parallel program:
+Time in seconds = 0.022687
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+MEDIUM DATASET
+Parallel program:
+Time in seconds = 0.531385
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+LARGE DATASET
+Parallel program:
+Time in seconds = 77.989666
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+EXTRALARGE DATASET
+Parallel program:
+Time in seconds = 733.494111
+*** FINISH ***
+
+
+
+
+
+
+*** START ***
+OMP_NUM_THREADS = 2
+MINI DATASET
+Parallel program:
+Time in seconds = 0.000921
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 2
+SMALL DATASET
+Parallel program:
+Time in seconds = 0.012027
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 2
+MEDIUM DATASET
+Parallel program:
+Time in seconds = 0.267230
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 2
+LARGE DATASET
+Parallel program:
+Time in seconds = 39.005439
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 2
+EXTRALARGE DATASET
+Parallel program:
+Time in seconds = 366.773494
+*** FINISH ***
+
+
+
+*** START ***
+OMP_NUM_THREADS = 3
+MINI DATASET
+Parallel program:
+Time in seconds = 0.000811
+*** FINISH ***
+
+*** START ***
+OMP_NUM_THREADS = 3
+SMALL DATASET
+Parallel program:
+Time in seconds = 0.008229
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 3
+MEDIUM DATASET
+Parallel program:
+Time in seconds = 0.188858
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 3
+LARGE DATASET
+Parallel program:
+Time in seconds = 26.4724789
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 3
+EXTRALARGE DATASET
+Parallel program:
+Time in seconds = 244.525624
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 4
+MINI DATASET
+Parallel program:
+Time in seconds = 0.000726
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 4
+SMALL DATASET
+Parallel program:
+Time in seconds = 0.007035
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 4
+MEDIUM DATASET
+Parallel program:
+Time in seconds = 0.141658
+*** FINISH ***
+
+*** START ***
+OMP_NUM_THREADS = 4
+LARGE DATASET
+Parallel program:
+Time in seconds = 19.861637
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 4
+EXTRALARGE DATASET
+Parallel program:
+Time in seconds = 185.296710
+*** FINISH ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+MINI DATASET
+Sequential program:
+Time in seconds = 0.001006
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+SMALL DATASET
+Sequential program:
+Time in seconds = 0.022771
+*** FINISH ***
+
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+MEDIUM DATASET
+Sequential program:
+Time in seconds = 0.531696
+*** FINISH ***
+
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+LARGE DATASET
+Sequential program:
+Time in seconds = 78.023404
+*** FINISH ***
+
+
+*** START ***
+OMP_NUM_THREADS = 1
+EXTRALARGE DATASET
+Sequential program:
+Time in seconds = 733.972330
+*** FINISH ***
+
+
+
+
